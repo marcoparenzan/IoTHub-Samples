@@ -4,11 +4,11 @@ This repository contains a collection of IoT Hub experiments
 
 ## MQTTClient (C#)
 
-A (quite) simple MQTT-based device client rebuild with MQTT.NET library, with CA certificates based authentication
+A (quite) simple MQTT-based device client rebuild with MQTT.NET library, with CA certificates based authentication. Not a library, just a sample app. It will be transformed into a .NET Standard lib soon.
 
 ## AMQPClient (C#)
 
-A (quite) simple AMQP-based device client rebuild with AMQP.NET library, with CA certificates based authentication
+A (quite) simple AMQP-based device client rebuild with AMQP.NET library, with CA certificates based authentication. Not a library, just a sample app. It will be transformed into a .NET Standard lib soon.
 
 ## Mosquitto MQTT Broker
 
